@@ -1,0 +1,16 @@
+C:\Dev\ArraysWorking\ArraysWorking\bin\Debug\net5.0\ArraysWorking.exe
+C:\Dev\ArraysWorking\ArraysWorking\bin\Debug\net5.0\ArraysWorking.deps.json
+C:\Dev\ArraysWorking\ArraysWorking\bin\Debug\net5.0\ArraysWorking.runtimeconfig.json
+C:\Dev\ArraysWorking\ArraysWorking\bin\Debug\net5.0\ArraysWorking.runtimeconfig.dev.json
+C:\Dev\ArraysWorking\ArraysWorking\bin\Debug\net5.0\ArraysWorking.dll
+C:\Dev\ArraysWorking\ArraysWorking\bin\Debug\net5.0\ArraysWorking.pdb
+C:\Dev\ArraysWorking\ArraysWorking\obj\Debug\net5.0\ArraysWorking.csproj.AssemblyReference.cache
+C:\Dev\ArraysWorking\ArraysWorking\obj\Debug\net5.0\ArraysWorking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\ArraysWorking\ArraysWorking\obj\Debug\net5.0\ArraysWorking.AssemblyInfoInputs.cache
+C:\Dev\ArraysWorking\ArraysWorking\obj\Debug\net5.0\ArraysWorking.AssemblyInfo.cs
+C:\Dev\ArraysWorking\ArraysWorking\obj\Debug\net5.0\ArraysWorking.csproj.CoreCompileInputs.cache
+C:\Dev\ArraysWorking\ArraysWorking\obj\Debug\net5.0\ArraysWorking.dll
+C:\Dev\ArraysWorking\ArraysWorking\obj\Debug\net5.0\refint\ArraysWorking.dll
+C:\Dev\ArraysWorking\ArraysWorking\obj\Debug\net5.0\ArraysWorking.pdb
+C:\Dev\ArraysWorking\ArraysWorking\obj\Debug\net5.0\ArraysWorking.genruntimeconfig.cache
+C:\Dev\ArraysWorking\ArraysWorking\obj\Debug\net5.0\ref\ArraysWorking.dll
