@@ -24,8 +24,30 @@ namespace PercorrendoArray
             foreach (var item in meuArray)
             {
                 Console.WriteLine($"Foreach: {item}");
-            }            
+            }
 
+            //Utilizando Struct
+            //Implementando uma struct para criar um array de funcionários
+            var funcionarios = new Funcionario[5];
+
+            //Atribuindo valor ao array funcionários
+            funcionarios[0] = new Funcionario()
+            {
+                Id = 2579,
+                Nome = "André"
+            };
+
+            foreach (var funcionario in funcionarios)
+            {
+                Console.WriteLine(funcionario.Id + funcionario.Nome);
+            }
+            
+        }
+
+        public struct Funcionario
+        {
+            public int Id { get; set; }
+            public string Nome { get; set; }
         }
     }
 }
