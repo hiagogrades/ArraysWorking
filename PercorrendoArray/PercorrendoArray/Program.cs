@@ -14,10 +14,18 @@ namespace PercorrendoArray
 
             Console.WriteLine(meuArray.Length);
 
+            //Utilizando o método for
             for (var index = 0; index < meuArray.Length; index++)
             {
-                Console.WriteLine(meuArray[index]);
+                Console.WriteLine($"For: {meuArray[index]}");
             }
+
+            //Utilizando o método foreach (Para cada), faça...
+            foreach (var item in meuArray)
+            {
+                Console.WriteLine($"Foreach: {item}");
+            }            
+
         }
     }
 }

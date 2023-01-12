@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Dev\\PercorrendoArray\\PercorrendoArray\\PercorrendoArray.csproj": {}
+    "D:\\Dev\\ArraysWorking\\PercorrendoArray\\PercorrendoArray\\PercorrendoArray.csproj": {}
   },
   "projects": {
-    "D:\\Dev\\PercorrendoArray\\PercorrendoArray\\PercorrendoArray.csproj": {
+    "D:\\Dev\\ArraysWorking\\PercorrendoArray\\PercorrendoArray\\PercorrendoArray.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Dev\\PercorrendoArray\\PercorrendoArray\\PercorrendoArray.csproj",
+        "projectUniqueName": "D:\\Dev\\ArraysWorking\\PercorrendoArray\\PercorrendoArray\\PercorrendoArray.csproj",
         "projectName": "PercorrendoArray",
-        "projectPath": "D:\\Dev\\PercorrendoArray\\PercorrendoArray\\PercorrendoArray.csproj",
+        "projectPath": "D:\\Dev\\ArraysWorking\\PercorrendoArray\\PercorrendoArray\\PercorrendoArray.csproj",
         "packagesPath": "C:\\Users\\hiago\\.nuget\\packages\\",
-        "outputPath": "D:\\Dev\\PercorrendoArray\\PercorrendoArray\\obj\\",
+        "outputPath": "D:\\Dev\\ArraysWorking\\PercorrendoArray\\PercorrendoArray\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
