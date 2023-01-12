@@ -1,0 +1,16 @@
+D:\Dev\PercorrendoArray\PercorrendoArray\bin\Debug\net5.0\PercorrendoArray.exe
+D:\Dev\PercorrendoArray\PercorrendoArray\bin\Debug\net5.0\PercorrendoArray.deps.json
+D:\Dev\PercorrendoArray\PercorrendoArray\bin\Debug\net5.0\PercorrendoArray.runtimeconfig.json
+D:\Dev\PercorrendoArray\PercorrendoArray\bin\Debug\net5.0\PercorrendoArray.runtimeconfig.dev.json
+D:\Dev\PercorrendoArray\PercorrendoArray\bin\Debug\net5.0\PercorrendoArray.dll
+D:\Dev\PercorrendoArray\PercorrendoArray\bin\Debug\net5.0\PercorrendoArray.pdb
+D:\Dev\PercorrendoArray\PercorrendoArray\obj\Debug\net5.0\PercorrendoArray.csproj.AssemblyReference.cache
+D:\Dev\PercorrendoArray\PercorrendoArray\obj\Debug\net5.0\PercorrendoArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\PercorrendoArray\PercorrendoArray\obj\Debug\net5.0\PercorrendoArray.AssemblyInfoInputs.cache
+D:\Dev\PercorrendoArray\PercorrendoArray\obj\Debug\net5.0\PercorrendoArray.AssemblyInfo.cs
+D:\Dev\PercorrendoArray\PercorrendoArray\obj\Debug\net5.0\PercorrendoArray.csproj.CoreCompileInputs.cache
+D:\Dev\PercorrendoArray\PercorrendoArray\obj\Debug\net5.0\PercorrendoArray.dll
+D:\Dev\PercorrendoArray\PercorrendoArray\obj\Debug\net5.0\refint\PercorrendoArray.dll
+D:\Dev\PercorrendoArray\PercorrendoArray\obj\Debug\net5.0\PercorrendoArray.pdb
+D:\Dev\PercorrendoArray\PercorrendoArray\obj\Debug\net5.0\PercorrendoArray.genruntimeconfig.cache
+D:\Dev\PercorrendoArray\PercorrendoArray\obj\Debug\net5.0\ref\PercorrendoArray.dll
